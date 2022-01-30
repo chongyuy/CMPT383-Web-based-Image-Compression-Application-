@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f4f9a83-ef91-4edd-a546-11fbfe3cb94d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/src/axios/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/algroithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/test1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../server/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1lCd8FxJzWNjPrcceCDAr4pFM1V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f4f9a83-ef91-4edd-a546-11fbfe3cb94d" name="Default Changelist" comment="" />
+      <created>1607104848027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607104848027</updated>
+      <workItem from="1607104850073" duration="654000" />
+      <workItem from="1607119088132" duration="2304000" />
+      <workItem from="1607178605216" duration="780000" />
+      <workItem from="1607206310895" duration="43813000" />
+      <workItem from="1607329415170" duration="8989000" />
+      <workItem from="1607338662897" duration="1060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c628b88-4a07-4fc2-8429-de47402328be" name="Default Changelist" comment="back-end update">
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/src/axios/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Reversi/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/algroithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algroithm/test1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="8b13fbe8-30b3-407d-a041-fab79d38c8d6" />
+  <component name="ProjectId" id="1kPLoy15FL9SyirnH4LtViItvz5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="flask_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python">
+      <module name="server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c628b88-4a07-4fc2-8429-de47402328be" name="Default Changelist" comment="" />
+      <created>1605597458443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605597458443</updated>
+      <workItem from="1605597459643" duration="693000" />
+      <workItem from="1605605725574" duration="2369000" />
+      <workItem from="1605616017841" duration="2675000" />
+      <workItem from="1605663201527" duration="929000" />
+      <workItem from="1605681843247" duration="2029000" />
+      <workItem from="1605853088091" duration="3325000" />
+      <workItem from="1605876458831" duration="1805000" />
+      <workItem from="1605878448262" duration="1465000" />
+      <workItem from="1606812423541" duration="5886000" />
+      <workItem from="1606848098630" duration="1190000" />
+      <workItem from="1607101275541" duration="2871000" />
+      <workItem from="1607207044769" duration="7563000" />
+      <workItem from="1607255487977" duration="1296000" />
+      <workItem from="1607339124879" duration="2084000" />
+    </task>
+    <task id="LOCAL-00001" summary="back-end update">
+      <created>1605681895612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605681895612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="back-end update" />
+    <option name="LAST_COMMIT_MESSAGE" value="back-end update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1159" height="202" key="GridCell.Tab.0.bottom" timestamp="1605618971252">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1159" height="202" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605618971252" />
+    <state width="1159" height="202" key="GridCell.Tab.0.center" timestamp="1605618971251">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1159" height="202" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605618971251" />
+    <state width="1159" height="202" key="GridCell.Tab.0.left" timestamp="1605618971251">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1159" height="202" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605618971251" />
+    <state width="1159" height="202" key="GridCell.Tab.0.right" timestamp="1605618971251">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1159" height="202" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605618971251" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1605616099222">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605616099222" />
+    <state x="708" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605681900366">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="708" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605681900366" />
+    <state x="931" y="265" width="762" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605616366592">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="931" y="265" width="762" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605616366592" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1605616100775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_api$main.coverage" NAME="main Coverage Results" MODIFIED="1605597569536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
